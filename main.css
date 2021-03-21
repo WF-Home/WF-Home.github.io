@@ -1,3 +1,7 @@
+header {
+    display: none;
+}
+
 body {
     text-align: center;
     background-color: #2e2e2e;

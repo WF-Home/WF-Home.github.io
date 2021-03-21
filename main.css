@@ -1,5 +1,7 @@
 body {
     text-align: center;
+    background-color: #2e2e2e;
+    color: white;
 }
 
 .portrait-img {
@@ -8,4 +10,7 @@ body {
     width: auto;
     height: auto;
     border-radius: 100px;
+    margin-top: 20px;
+    margin-bottom: 35px;
 }
+

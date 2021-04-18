@@ -1,0 +1,20 @@
+.header-grid-container {
+    margin-top: 20px;
+    display: grid;
+    grid-template-areas:
+    'name name name name'
+    'social social social social';
+}
+
+.header-name {
+    grid-area: name;
+    font-size:xx-large;
+    align-self: center;
+}
+
+.header-social {
+    grid-area: social;
+    align-self: center;
+}
+
+
